@@ -1,0 +1,14 @@
+.header-nav {
+    top: 0 !important;
+    z-index: 1 !important;
+    width: 100% !important;
+
+    -webkit-box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.20);
+    -moz-box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.20);
+    box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.20);
+    border-radius: 0.25rem;
+  }
+
+  .logo-nav {
+    max-height: 36px !important;
+  }
